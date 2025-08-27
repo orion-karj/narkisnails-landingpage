@@ -1,0 +1,26 @@
+{
+  "name": "narkis-nails-landing",
+  "version": "1.0.0",
+  "description": "Narkis Nails - Professional Nail Studio Landing Page",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "nails",
+    "beauty",
+    "landing-page",
+    "express",
+    "pug"
+  ],
+  "author": "Narkis Nails",
+  "license": "MIT"
+}
