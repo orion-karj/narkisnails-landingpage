@@ -596,7 +596,7 @@ body {
 
   .main section h3 {
     font-size: 1.3rem;
-    flex-direction: column-reverse;
+    flex-direction: row-reverse;
     gap: 0.5rem;
   }
 
@@ -682,7 +682,7 @@ body {
 
   .main section h3 {
     font-size: 1.1rem;
-    flex-direction: column-reverse;
+    flex-direction: row-reverse;
     gap: 0.5rem;
   }
 
