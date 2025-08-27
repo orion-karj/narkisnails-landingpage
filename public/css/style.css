@@ -668,7 +668,7 @@ body {
 
 @media (max-width: 480px) {
   .logo {
-    flex-direction: column;
+    flex-direction: row;
     gap: 0.5rem;
   }
 
