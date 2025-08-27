@@ -595,7 +595,7 @@ body {
   }
 
   .main section h3 {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     flex-direction: column-reverse;
     gap: 0.5rem;
   }
@@ -678,6 +678,12 @@ body {
 
   .main section {
     padding: 1rem;
+  }
+
+  .main section h3 {
+    font-size: 1.1rem;
+    flex-direction: column-reverse;
+    gap: 0.5rem;
   }
 
   .hero-image-container img {
